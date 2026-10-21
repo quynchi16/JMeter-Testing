@@ -1,9 +1,4 @@
 # Kiểm thử hiệu năng website bằng Apache JMeter
-
-- **Họ tên:** *(điền tên của bạn)*
-- **MSSV:** *(điền mã số sinh viên)*
-- **Lớp / Học phần:** *(điền thông tin lớp)*
-
 ## 1. Giới thiệu
 
 - **Mục tiêu:** tìm hiểu công cụ Apache JMeter và thực hành kiểm thử hiệu năng (performance testing) một website với nhiều mức tải khác nhau.
@@ -86,10 +81,6 @@ Ví dụ request "Tìm chuyến bay":
 ### 5.4 Assertion
 
 ![Response Assertion](images/assertion.png)
-
-Khi cố ý đặt sai nội dung cần kiểm tra, request bị đánh dấu lỗi:
-
-![Assertion thất bại](images/assertion-fail.png)
 
 ## 6. Kết quả thực hiện
 
